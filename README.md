@@ -24,4 +24,6 @@
  
 ![Sowndariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOWNDARIYA-20&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Sowndariya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SOWNDARIYA-20&bg_color=151314&color=9e4c98&line=3fd578&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sowndariya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SOWNDARIYA-20&bg_color=080808&color=ece4ec&line=44c16f&point=f7eeed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
