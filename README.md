@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full Stack Development  
 - 💞️ I’m looking to collaborate on exciting web development projects  
 - 📫 How to reach me:
- <br />[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox)  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sowndariya-k/)  
+ <br />[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sowndariyak11@gmail.com)  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sowndariya-k/)  
 - 😄 Pronouns: Techie  
 - ⚡ Fun fact: I love solving complex problems and enjoy working on front-end technologies!  
 
