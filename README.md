@@ -8,9 +8,17 @@
 - 😄 Pronouns: Techie  
 - ⚡ Fun fact: I love solving complex problems and enjoy working on front-end technologies!  
 
+
 ## 🛠 Skills
 - **Front-end:** HTML, CSS, JavaScript, Bootstrap, React
 - **Databases:** MongoDB, MySQL
+
+
+## 🌱 **What I'm Currently Learning**:
+- Back-End Development with **Node.js** and **MongoDB**
+- Advanced **Data Structures & Algorithms (DSA)**
+- **Express.js** for building robust web applications
+
 
 ## I Code in
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
@@ -19,11 +27,13 @@
 ## Tools I Use
    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/sublime-text.png" alt="sublime-text"/>
 
-  
-## 📈 GitHub Stats 
- 
-![Sowndariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOWNDARIYA-20&theme=dark&show_icons=true&&hide=issues,contribs)
+## 📈 **GitHub Stats**:
 
-[![Sowndariya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SOWNDARIYA-20&bg_color=080808&color=ece4ec&line=44c16f&point=f7eeed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowndariya-k&show_icons=true&theme=dark&bg_color=000000)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowndariya-k&theme=dark&background=000000)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowndariya-k&layout=compact&theme=dark&bg_color=000000)
+
+## 🌐 **Portfolio**
+Check out my portfolio: [sowndariya.web.com](https://sowndariya-k.github.io/Profile/)
 
 
