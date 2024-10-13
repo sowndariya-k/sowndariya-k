@@ -1,7 +1,9 @@
 # Hi there,👋 I'm Sowndariya
-> B.Tech IT Student
+> B.Tech IT Student <br>
+### Full Stack Developer | Content Creator | Problem Solver
 
-- 🌱 I’m currently working on Full Stack Development  
+I am passionate about creating innovative web solutions
+- 🌱 I’m currently working on Full Stack Development
 - 💫 I’m looking to collaborate on exciting web development projects
 - 📚 Advanced **Data Structures & Algorithms (DSA)** 
 - 📫 How to reach me:
