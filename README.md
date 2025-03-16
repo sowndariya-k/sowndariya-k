@@ -13,7 +13,7 @@ I am passionate about creating innovative web solutions
 
   
 ## 🌐 **Portfolio**
-Check out my portfolio: [sowndariya.web.com](https://sowndariya-k.github.io/Profile/)
+Check out my portfolio: [sowndariya.netlify.app]([https://sowndariya-k.github.io/Profile/](https://sowndariya-k.netlify.app/))
 </br>
 
 
