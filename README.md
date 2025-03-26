@@ -38,7 +38,6 @@ Check out my portfolio: [sowndariya.netlify.app](https://sowndariya-k.netlify.ap
 
 ## 📈 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowndariya-k&show_icons=true&theme=dark&bg_color=000000) <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowndariya-k)](https://git.io/streak-stats)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowndariya-k&layout=compact&theme=dark&bg_color=000000)
 
 
