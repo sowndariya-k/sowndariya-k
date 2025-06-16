@@ -1,101 +1,97 @@
-<h1 align="center">Hi there, 👋 I'm Sowndariya K</h1>
-<h3 align="center">B.Tech IT Student | Full Stack Developer | Content Creator | Problem Solver</h3>
+<h1 align="left">Hi there, 👋 I'm Sowndariya K</h1>
+<h3 align="left">B.Tech IT Student | Full Stack Developer | Content Creator | Problem Solver</h3>
 
----
-
-<p align="center">
-🚀 Passionate about building scalable web applications and solving real-world problems using code.
+<p>
+I’m passionate about building scalable, user-focused web applications and exploring the world of technology through real-time projects and continuous learning.
 </p>
 
 ---
 
-## 💡 About Me
+### 🚀 About Me
 
-- 🎓 Pre-Final Year IT Student at **Bannari Amman Institute of Technology**  
-- 👩‍💻 Currently working on real-world projects and freelance web apps  
-- 🌱 Learning **Advanced DSA**, **System Design**, and **Next.js**  
-- 🤝 Looking to **collaborate** on exciting frontend or full-stack projects  
-- ⚡ Fun Fact: I love crafting clean UIs and debugging feels like solving a puzzle!
-
----
-
-## 🚀 Portfolio & Projects
-
-- 🌐 **Portfolio Website** – [sowndariya-k.netlify.app](https://sowndariya-k.netlify.app/)  
-- 🧩 **Latest Projects**  
-  - AI-Powered Smart Agri Assistant 🌾  
-  - Multi-Agent Elderly Care Companion using LLaMA3 & SQLite 🧠  
-  - Blockchain-based Voting System using MetaMask, IPFS & Solidity 🗳️  
-  - Full-stack Clinic Management App (Hackathon) 🏥  
+- 🎓 Pre-Final Year Information Technology Student at **Bannari Amman Institute of Technology**
+- 👩‍💻 Currently working on **Full Stack Development**
+- 💫 Actively exploring **Data Structures & Algorithms**
+- 🤝 Open to collaboration on impactful projects
+- 🌱 Learning **modern frontend frameworks** and **web performance optimization**
+- ⚡ Fun fact: I enjoy designing intuitive UIs and solving real-world problems with code!
 
 ---
 
-## 🛠️ Tech Stack
+### 🌐 Portfolio
 
-### Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26) 
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6) 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & Tools  
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248) 
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=00758F)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28)  
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-### Programming Languages  
-<img width="45" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-<img width="45" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-<img width="45" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+Visit: [sowndariya-k.netlify.app](https://sowndariya-k.netlify.app/)
 
 ---
 
-## 🧠 Services I Offer
+### 📫 Connect with Me
 
-### Through Freelance / Projects
-
-- 🌐 **Full Stack Web Development**
-  - Responsive Web Apps & Dashboards  
-  - API Integration (REST & Firebase)  
-  - Real-time IoT dashboards with AI
-
-- 📲 **Social Media Management**
-  - Content Creation & Strategy  
-  - Analytics & Growth  
-  - Branding & Templates via Figma
-
-- 🤖 **Machine Learning Projects**
-  - Computer Vision & OpenCV Tasks  
-  - Model Integration with Web Frontends  
-  - LLaMA3 & Ollama AI Integration
+<a href="mailto:sowndariyadeveloper@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sowndariya-k/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/sowndariya-k">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 Technical Skills
+
+<table><tr><td valign="top" width="33%">
+
+#### 🌐 Frontend
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" alt="HTML5" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="CSS3" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="40" alt="Bootstrap" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React" />
+</div>
+
+</td><td valign="top" width="33%">
+
+#### 🖥 Backend & Tools
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" alt="MySQL" />
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" alt="Git" />
+  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="40" alt="Figma" />
+</div>
+
+</td><td valign="top" width="33%">
+
+#### 💻 Languages
+<div align="center">
+  <img src="https://img.icons8.com/color/48/python--v1.png" height="40" alt="Python" />
+  <img src="https://img.icons8.com/color/48/c-programming.png" height="40" alt="C" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="40" alt="Java" />
+</div>
+
+</td></tr></table>
+
+---
+
+### 🧩 Projects I'm Proud Of
+
+- **🌾 Smart Agri Advisor** — AI-powered multi-agent system using IoT & LLaMA3 for agriculture.
+- **🏥 Elderly Care Assistant** — Real-time reminder and monitoring system using Flask + sensors.
+- **🔐 Blockchain Voting System** — Secure IPFS-backed voting DApp with MetaMask integration.
+- **📅 Clinic Appointment App** — Role-based app for booking, tracking, and communication.
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowndariya-k&show_icons=true&theme=dark&bg_color=000000&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowndariya-k&layout=compact&theme=dark&bg_color=000000&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sowndariya-k&show_icons=true&theme=dark&hide_border=true&bg_color=000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowndariya-k&layout=compact&theme=dark&hide_border=true&bg_color=000000" height="150" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:sowndariyadeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sowndariya-k/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sowndariya-k"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/zenhook._"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-✨ Let's build something amazing together!
-</p>
+<p align="center"><b>Let’s connect and build something impactful together!</b></p>
