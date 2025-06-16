@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, 👋 I'm Sowndariya K</h1>
-<h3 align="left">B.Tech IT Student | Full Stack Developer | Content Creator | Problem Solver</h3>
+<h3 align="left">B.Tech IT Student | Full Stack Developer | Cloud Enthusiastic | Problem Solver</h3>
 
 <p>
 I’m passionate about building scalable, user-focused web applications and exploring the world of technology through real-time projects and continuous learning.
@@ -9,7 +9,7 @@ I’m passionate about building scalable, user-focused web applications and expl
 
 ### 🚀 About Me
 
-- 🎓 Pre-Final Year Information Technology Student at **Bannari Amman Institute of Technology**
+- 🎓 Pre-Final Year Information Technology Student at **Knowledge Institute of Technology**
 - 👩‍💻 Currently working on **Full Stack Development**
 - 💫 Actively exploring **Data Structures & Algorithms**
 - 🤝 Open to collaboration on impactful projects
@@ -57,7 +57,6 @@ Visit: [sowndariya-k.netlify.app](https://sowndariya-k.netlify.app/)
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" alt="MySQL" />
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" alt="Git" />
   <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="40" alt="Figma" />
 </div>
@@ -66,7 +65,6 @@ Visit: [sowndariya-k.netlify.app](https://sowndariya-k.netlify.app/)
 
 #### 💻 Languages
 <div align="center">
-  <img src="https://img.icons8.com/color/48/python--v1.png" height="40" alt="Python" />
   <img src="https://img.icons8.com/color/48/c-programming.png" height="40" alt="C" />
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="40" alt="Java" />
 </div>
