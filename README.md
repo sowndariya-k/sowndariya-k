@@ -26,12 +26,14 @@ Visit: [sowndariya-k.netlify.app](https://sowndariya-k.netlify.app/)
 
 ### 📫 Connect with Me
 
-<a href="mailto:sowndariyadeveloper@gmail.com"  target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sowndariyadeveloper@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/sowndariya-k/"  target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
+<a href="https://www.linkedin.com/in/sowndariya-k/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 ---
 
