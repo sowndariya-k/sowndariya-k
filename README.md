@@ -1,5 +1,4 @@
 <!-- Profile Header -->
-<!-- Profile Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=28&duration=5000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Sowndariya+K!;web+Developer+%7C+Cloud+Enthusiast+%7C+Problem+Solver" />
 </div>
@@ -13,13 +12,17 @@ I’m a passionate **Frontend Developer** focused on building **responsive**, **
 
 
 ---
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=flat-square&logo=vercel&logoColor=white)](https://sowndariya-k.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sowndariya-k/)
+[![GitHub](https://img.shields.io/badge/GitHub-@SowndariyaK-black?style=flat-square&logo=github&logoColor=white)](https://github.com/sowndariya-k)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sowndariyadeveloper@gmail.com)
 
-### 🌐 Portfolio  
-🎯 Visit: **[sowndariya-k.netlify.app](https://sowndariya-k.netlify.app/)**  
+
+ 
 
 ---
 
-## 🧠 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -88,21 +91,14 @@ I’m a passionate **Frontend Developer** focused on building **responsive**, **
 
 ---
 
-## 🌍 Connect with Me  
 
-<div align="center">
+## 🤝 Connect with Me
 
-<a href="mailto:sowndariyadeveloper@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/sowndariya-k/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://sowndariya-k.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+-  Portfolio: [sowndariya-k.netlify.app](https://sowndariya-k.netlify.app/)  
+-  LinkedIn: [linkedin.com/in/sowndariya-k](https://www.linkedin.com/in/sowndariya-k/)  
+-  GitHub: [@sowndariya-k](https://github.com/sowndariya-k)  
+-  Email: [sowndariyadeveloper@gmail.com](mailto:sowndariyadeveloper@gmail.com)
 
-</div>
 
 ---
 
