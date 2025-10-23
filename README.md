@@ -1,94 +1,113 @@
-<h1 align="left">Hi there, 👋 I'm Sowndariya K</h1>
-<h3 align="left">B.Tech IT Student | Full Stack Developer | Cloud Enthusiastic | Problem Solver</h3>
+<!-- Profile Header -->
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=28&duration=5000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Sowndariya+K!;web+Developer+%7C+Cloud+Enthusiast+%7C+Problem+Solver" />
+</div>
 
-<p>
-I’m passionate about building scalable, user-focused web applications and exploring the world of technology through real-time projects and continuous learning.
+---
+
+## 🚀 About Me  
+
+I’m a passionate **Frontend Developer** focused on building **responsive**, **user-friendly** web applications using **React** and **Tailwind CSS**. Currently, I’m exploring **Cloud Computing** with **AWS** to enhance **scalable deployments**. I enjoy **turning ideas into functional products**, continuously **learning new tools**, and collaborating to create web applications that deliver real **impact**.
+
+
+
+---
+
+### 🌐 Portfolio  
+🎯 Visit: **[sowndariya-k.netlify.app](https://sowndariya-k.netlify.app/)**  
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🌈 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
+</td>
+<td align="center" width="33%">
+
+#### ⚙️ Backend & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,figma,vscode" />
+</p>
+
+</td>
+<td align="center" width="33%">
+
+#### 💻 Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java" />
+</p>
+
+</td>
+</tr>
+</table>
+</div>
+
 ---
 
-### 🚀 About Me
+## 🌟 Featured Projects  
 
-- 🎓 Pre-Final Year Information Technology Student at **Knowledge Institute of Technology**
-- 👩‍💻 Currently working on **Full Stack Development**
-- 💫 Actively exploring **Data Structures & Algorithms**
-- 🤝 Open to collaboration on impactful projects
-- 🌱 Learning **modern frontend frameworks** and **web performance optimization**
-- ⚡ Fun fact: I enjoy designing intuitive UIs and solving real-world problems with code!
+### [SpendWise](https://github.com/sowndariya-k/spendwise)  
+*Personal finance tracker with real-time visual analytics and clean UI.*
+
+### [Cloud Log Alert](https://github.com/sowndariya-k/cloud-log-alert)  
+*Cloud monitoring and alert system with automated AWS log tracking.*
+
+### [TaskFlow](https://github.com/sowndariya-k/taskflow)  
+*Real-time task management app with role-based features and responsive design.*
+
+### [Zekesys](https://zekesys.com)  
+*Live company project built during internship at C2D2 — handled design, development, and deployment.*
+
+### [Freelance Projects](https://kavinkumar-r.netlify.app/)  
+*Various professional projects focused on client requirements, UI consistency, and performance.*
 
 ---
 
-### 🌐 Portfolio
 
-Visit: [sowndariya-k.netlify.app](https://sowndariya-k.netlify.app/)
+## 📊 GitHub Insights  
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sowndariya-k&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowndariya-k&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowndariya-k&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-### 📫 Connect with Me
+## 🌍 Connect with Me  
 
+<div align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sowndariyadeveloper@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:sowndariyadeveloper@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sowndariya-k/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://sowndariya-k.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/sowndariya-k/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
----
-
-### 🛠 Technical Skills
-
-<table><tr><td valign="top" width="33%">
-
-#### 🌐 Frontend
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" alt="HTML5" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="CSS3" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="40" alt="Bootstrap" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React" />
 </div>
 
-</td><td valign="top" width="33%">
+---
 
-#### 🖥 Backend & Tools
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" alt="Git" />
-  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="40" alt="Figma" />
+  
+✨ *Let’s connect and build something impactful together!* ✨  
+
 </div>
-
-</td><td valign="top" width="33%">
-
-#### 💻 Languages
-<div align="center">
-  <img src="https://img.icons8.com/color/48/c-programming.png" height="40" alt="C" />
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="40" alt="Java" />
-</div>
-
-</td></tr></table>
-
----
-
-### 🧩 Projects I'm Proud Of
-
-- **🌾 Smart Agri Advisor** — AI-powered multi-agent system using IoT & LLaMA3 for agriculture.
-- **🏥 Elderly Care Assistant** — Real-time reminder and monitoring system using Flask + sensors.
-- **🔐 Blockchain Voting System** — Secure IPFS-backed voting DApp with MetaMask integration.
-- **📅 Clinic Appointment App** — Role-based app for booking, tracking, and communication.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowndariya-k&show_icons=true&theme=dark&hide_border=true&bg_color=000000" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowndariya-k&layout=compact&theme=dark&hide_border=true&bg_color=000000" height="150" />
-</p>
-
----
-
-<p align="center"><b>Let’s connect and build something impactful together!</b></p>
