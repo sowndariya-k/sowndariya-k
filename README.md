@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=28&duration=5000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Sowndariya+K!;web+Developer+%7C+Cloud+Enthusiast+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=34&duration=3000&pause=500&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Sowndariya+K!;Web+Developer+%7C+Cloud+Enthusiast+%7C+Problem+Solver" />
 </div>
+
 
 ---
 
