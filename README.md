@@ -64,11 +64,12 @@ I’m a passionate **Frontend Developer** focused on building **responsive**, **
 ### [SpendWise](https://github.com/sowndariya-k/spendwise)  
 *Personal finance tracker with real-time visual analytics and clean UI.*
 
+### [Morning Aura](https://github.com/sowndariya-k/Morning-Aura)  
+*Daily habit and productivity tracker focused on streaks, consistency, and a calm user experience.*
+
+
 ### [Cloud Log Alert](https://github.com/sowndariya-k/cloud-log-alert)  
 *Cloud monitoring and alert system with automated AWS log tracking.*
-
-### [TaskFlow](https://github.com/sowndariya-k/taskflow)  
-*Real-time task management app with role-based features and responsive design.*
 
 ### [Zekesys](https://zekesys.com)  
 *Live company project built during internship at C2D2 — handled design, development, and deployment.*
@@ -82,7 +83,6 @@ I’m a passionate **Frontend Developer** focused on building **responsive**, **
 ## 📊 GitHub Insights  
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sowndariya-k&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowndariya-k&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
