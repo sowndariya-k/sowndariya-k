@@ -103,6 +103,6 @@ I’m a passionate **Frontend Developer** focused on building **responsive**, **
 
 <div align="center">
   
-✨ *Let’s connect and build something impactful together!* ✨  
+
 
 </div>
